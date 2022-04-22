@@ -1,4 +1,4 @@
-# Lesson 21
+# 3.8 - Conclusion to Methods
 
 In this lesson we will attempt to tie together all the different topics on methods and design principles.
 
