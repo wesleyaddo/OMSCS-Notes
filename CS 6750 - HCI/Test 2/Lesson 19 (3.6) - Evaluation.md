@@ -1,4 +1,4 @@
-# Lesson 19
+# 3.6 - Evaluation
 
 This lesson will cover the following topics:
 
