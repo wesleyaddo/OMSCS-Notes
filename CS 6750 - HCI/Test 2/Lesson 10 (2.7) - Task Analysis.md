@@ -1,4 +1,4 @@
-# 3.5 - Prototyping
+# 2.7 - Task Analysis
 
 In this lesson we will look into two methods for task analysis:
 
