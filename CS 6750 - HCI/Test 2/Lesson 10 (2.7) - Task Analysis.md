@@ -1,4 +1,4 @@
-# Lesson 10
+# 3.5 - Prototyping
 
 In this lesson we will look into two methods for task analysis:
 
