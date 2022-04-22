@@ -1,4 +1,4 @@
-# Lesson 20
+# 3.7 - HCI and Agile Development
 
 In this lesson we will cover how we might use agile development methods to engage in quicker feedback cycles.
 
