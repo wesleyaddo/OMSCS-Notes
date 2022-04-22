@@ -1,4 +1,4 @@
-# Lesson 12
+# 2.9 - Interfaces and Politics
 
 In this lesson we will cover interfaces and politics:
 
