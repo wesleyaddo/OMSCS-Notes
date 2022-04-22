@@ -1,4 +1,4 @@
-# Lesson 18
+# 3.5 - Prototyping
 
 This lesson will cover the following topics:
 
